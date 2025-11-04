@@ -5,4 +5,4 @@ h1 { font-family: Comic Sans MS; }
 nav { background: #333; padding: 10px; }
 nav a { color: white; text-decoration: none; }
 form { max-width: 400px; margin: 20px 0; }
-input, button { display: block; margin: 10px 0; padding: 8px; }
+input, button { display: block; margin: 10px 0; padding: 8px; }/* More CSS */ 
